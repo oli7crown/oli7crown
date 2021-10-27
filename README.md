@@ -2,7 +2,7 @@
 - 👀 I’m interested in new dev magic...
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me ...oli7crown55@gmail.com
+- 📫 How to reach me ... oltjanqoshi@gmail.com
 
 <!---
 oli7crown/oli7crown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
